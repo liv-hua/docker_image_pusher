@@ -1,1 +1,5 @@
-
+mysql:8.0.31
+redis:7.0.22
+minio:8.5.12
+kafka:3.2.1
+elasticsearch 8.10.0
