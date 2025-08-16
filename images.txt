@@ -18,3 +18,17 @@ redis:7.0.11
 
 # Docker 引擎 23.0.6 版本
 docker:23.0.6
+
+nacos/nacos-server:v2.2.3
+
+redis:7.0.12
+
+seataio/seata-server:1.5.2
+
+apache/rocketmq:5.1.0
+
+portainer/portainer-ce
+
+mysql:8.0.33
+
+mysql:5.7
