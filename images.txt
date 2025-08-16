@@ -1,6 +1,6 @@
-alpine
-mysql:8.0.31
-redis:7.02.2
-minio:8.5.12
-elasticsearch:8.10.0
-kafka:3.2.1
+nginx
+#支持私库
+k8s.gcr.io/kube-state-metrics/kube-state-metrics:v2.0.0
+xhofe/alist:latest
+#支持指定架构
+--platform=linux/arm64 xiaoyaliu/alist
