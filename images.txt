@@ -4,8 +4,3 @@ k8s.gcr.io/kube-state-metrics/kube-state-metrics:v2.0.0
 xhofe/alist:latest
 #支持指定架构
 --platform=linux/arm64 xiaoyaliu/alist
-mysql:8.0.31
-redis:7.0.22
-minio:8.5.12
-kafka:3.2.1
-elasticsearch 8.10.0
