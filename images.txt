@@ -7,14 +7,14 @@ mysql:8.0
 # Elasticsearch 8.10.0（官方镜像在 docker.elastic.co 仓库）
 docker.elastic.co/elasticsearch/elasticsearch:8.10.0
 
-# MinIO 8.5.12
-minio/minio:RELEASE.2023-02-27T18-10-45Z  # 对应 8.5.12 版本
+# MinIO 8.5.12（对应标签为 RELEASE.2023-02-27T18-10-45Z）
+minio/minio:RELEASE.2023-02-27T18-10-45Z
 
-# Kafka 3.2.1
-confluentinc/cp-kafka:7.2.1  # 3.2.1 对应 Confluent Kafka 版本
+# Kafka 3.2.1（对应 Confluent Kafka 版本 7.2.1）
+confluentinc/cp-kafka:7.2.1
 
 # Redis 7.0.11
 redis:7.0.11
 
-# Docker 引擎
+# Docker 引擎 23.0.6 版本
 docker:23.0.6
